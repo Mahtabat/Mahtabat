@@ -42,30 +42,29 @@ I combine scientific thinking with real-world business analytics — a combinati
 
 ## 📂 Featured Projects 
 
-### **📌 1. E-Commerce Sales Analytics (Olist Dataset)**
-Tools: Excel, SQL, Tableau  
-Focus: Sales performance, customer segmentation, delivery metrics  
-→ *Dashboard + SQL scripts will be uploaded here*
+### **📌 1. Energy-Based Models — Visual Analytics**
+Tools: Python, PyTorch  
+Focus: Score matching, learned distributions, heatmaps  
+→ *Summary of my MSc research*
 
-### **📌 2. Sales Performance Analysis (Commercial Oil & Gas — Synthetic Data)**
-Tools: Excel, Python  
-Focus: KPIs, forecasting, revenue trends  
-→ *Synthetic dataset + analysis coming soon*
+### **📌 2. EEG Time-Series Analysis (ADD/ADHD Patients)**
+Tools: Python (MNE, NumPy)  
+Focus: Filtering, FFT, feature extraction  
 
 ### **📌 3. Mental Health & Lifestyle Data Analysis**
 Tools: Python  
 Focus: Correlation trends, statistical insights  
-→ *Notebook + visualizations coming soon*
 
-### **📌 4. EEG Time-Series Analysis (ADD/ADHD Patients)**
-Tools: Python (MNE, NumPy)  
-Focus: Filtering, FFT, feature extraction  
-→ *Notebook + plots coming soon*
 
-### **📌 5. Energy-Based Models — Visual Analytics**
-Tools: Python, PyTorch  
-Focus: Score matching, learned distributions, heatmaps  
-→ *Summary of my MSc research*
+### **📌 4. E-Commerce Sales Analytics (Olist Dataset)**
+Tools: Excel, SQL, Tableau  
+Focus: Sales performance, customer segmentation, delivery metrics  
+
+
+### **📌 5. Sales Performance Analysis (Commercial Oil & Gas — Synthetic Data)**
+Tools: Excel, Python  
+Focus: KPIs, forecasting, revenue trends  
+
 
 ---
 
