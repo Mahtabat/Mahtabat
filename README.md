@@ -1,4 +1,7 @@
-👋 Hi, I’m Mahtab
+# Mahtab Ataei 
+## Data Analyst
+### SQL, Python, Tableue, Excel, Power BI
+
 
 Data Analyst with a physics background and experience across scientific research and business analytics.
 I work with Python, SQL, Excel, Tableau, and Power BI to clean data, analyze patterns, and build clear, insight-driven dashboards.
