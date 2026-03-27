@@ -37,7 +37,7 @@ Data Analyst with a background in physics and experience in both scientific rese
 - Modeled and analyzed classical phase space distributions using energy-based models  
 - Applied numerical and statistical techniques to evaluate model behavior  
 - Tools: Python, PyTorch  
-👉 [View Project](link)
+👉 [View Project](https://github.com/Mahtabat/Learning-Classical-Phase-Space-Distributions-with-Energy-Based-Models)
 
 ## extra project
 -   
