@@ -31,7 +31,7 @@ Data Analyst with a background in physics and experience in both scientific rese
 - Explored relationships between lifestyle factors and mental health indicators  
 - Applied statistical analysis to identify patterns and correlations  
 - Tools: SQL, Excel, Tableau
-👉 [View Project](link)
+👉 [View Project](https://github.com/Mahtabat/lifestyle-mental-health-analysis)
 
 ## Energy-Based Model Analysis (Physics)
 - Modeled and analyzed classical phase space distributions using energy-based models  
