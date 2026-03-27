@@ -39,7 +39,7 @@ Data Analyst with a background in physics and experience in both scientific rese
 - Tools: Python, PyTorch  
 👉 [View Project](https://github.com/Mahtabat/Learning-Classical-Phase-Space-Distributions-with-Energy-Based-Models)
 
-## extra project
+## Time-Series Analysis (EEG)
 -   
-👉 [View Project](link)
+👉 [View Project](https://github.com/Mahtabat/Time-Series-Analysis-of-EEG-Signals-in-Healthy-Children-and-Those-With-ADD-and-ADHD)
 
