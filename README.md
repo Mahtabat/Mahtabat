@@ -5,29 +5,29 @@ Data Analyst with a background in physics and experience in both scientific rese
 
 # Business Analytics Projects
 
-## E-commerce Revenue & Inventory Analysis
-- Analyzed 100K+ transactions to evaluate revenue trends and product performance  
-- Identified inefficiencies and revenue leakage across categories  
-- Built dashboards to support pricing and inventory decisions  
+## E-commerce Sales, Revenue & Operational Performance Analysis
+
+- Analyzed 100K+ transactions to evaluate sales trends, revenue performance, and product behavior  
+- Assessed financial performance through revenue contribution, average order value, and category-level insights  
+- Evaluated operational efficiency by analyzing delivery times, order status, and fulfillment performance  
+- Explored customer experience through review scores and their relationship with delivery and order outcomes  
+- Identified inefficiencies and revenue leakage across products and categories, with actionable recommendations  
 - Tools: SQL, Power BI, Python, Excel  
-👉 [View Project](link)
+👉 [View Project](https://github.com/Mahtabat/ecommerce-sales-analysis)
 
-## Financial & Operational Performance Analysis
-- Evaluated cost, revenue, and margin behavior across products  
-- Analyzed the impact of cost fluctuations on profitability  
-- Built dashboards to support financial decision-making  
-- Tools: SQL, Power BI, Python, Excel 
-👉 [View Project](link)
+## Electric Vehicle Market Trends & Adoption Analysis
 
-## Marketing Funnel & Conversion Analysis
-- Analyzed customer journey and conversion rates across funnel stages  
-- Identified drop-off points and optimization opportunities  
-- Tools: SQL, Tableau, Python, Excel  
-👉 [View Project](link)
+- Analyzed electric vehicle adoption trends over time to evaluate market growth and acceleration patterns  
+- Examined market share across manufacturers and models to identify leading players and competitive dynamics  
+- Explored geographic distribution of EV adoption to highlight regional differences and growth opportunities  
+- Assessed the impact of vehicle characteristics (model year, type) on adoption trends  
+- Generated insights on market evolution and future growth potential based on observed patterns  
+- Tools: SQL, Python, Excel, Power BI  
+👉 [View Project](https://github.com/Mahtabat/electric-vehicle-market-analysis)
 
-# Scientific & Analytical Projects
+# Scientific & Data-Driven Analysis
 
-## Health & Lifestyle Data Analysis
+## Health & Lifestyle Data Analysis 
 - Explored relationships between lifestyle factors and mental health indicators  
 - Applied statistical analysis to identify patterns and correlations  
 - Tools: SQL, Excel, Tableau
